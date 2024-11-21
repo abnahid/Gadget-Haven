@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "category": "Tablets",
+        "slug": "tablets"
+    },
+    {
+      "id": 2,
+      "category": "E-Readers",
+      "slug": "e-readers"
+    },
+    {
+      "id": 3,
+      "category": "Smartwatches",
+      "slug": "smartwatches"
+    },
+    {
+      "id": 4,
+      "category": "Gaming Consoles",
+      "slug": "gaming-consoles"
+    },
+    {
+      "id": 5,
+      "category": "Headphones",
+      "slug": "headphones"
+    },
+    {
+      "id": 6,
+      "category": "Computer Accessories",
+      "slug": "computer-accessories"
+    }
+  ]
+  

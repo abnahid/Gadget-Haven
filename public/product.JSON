@@ -1,0 +1,218 @@
+[
+  {
+      "product_id": 1,
+      "product_title": "Samsung Galaxy Tab S8",
+      "product_image": "https://i.ibb.co.com/XLvtPMr/Samsung-Galaxy-Tab-S8.jpg",
+      "category": "Tablets",
+      "price": 749,
+      "description": "A high-performance tablet for productivity and entertainment.",
+      "specification": [
+          "11-inch TFT display",
+          "Snapdragon 8 Gen 1",
+          "8GB RAM, 128GB storage",
+          "S Pen support",
+          "8000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "stock_count": 50
+  },
+  {
+      "product_id": 2,
+      "product_title": "iPad Pro 12.9-inch",
+      "product_image": "https://i.ibb.co.com/JdDjd3F/i-Pad-Pro-2020-11inch-Apple-Refurbished-Space-Gray-8059.jpg",
+      "category": "Tablets",
+      "price": 1099,
+      "description": "The most advanced iPad with a stunning XDR display and M2 chip.",
+      "specification": [
+          "12.9-inch Liquid Retina XDR display",
+          "Apple M2 chip",
+          "8GB RAM, 256GB storage",
+          "Face ID",
+          "Apple Pencil support"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "stock_count": 30
+  },
+  {
+      "product_id": 3,
+      "product_title": "Amazon Kindle Paperwhite",
+      "product_image": "https://i.ibb.co.com/yXnrXN3/4621-67212.jpg",
+      "category": "E-Readers",
+      "price": 129,
+      "description": "A waterproof Kindle with a 6.8-inch display, ideal for reading anywhere.",
+      "specification": [
+          "6.8-inch glare-free display",
+          "Waterproof",
+          "10-week battery life",
+          "Adjustable warm light",
+          "8GB storage"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "stock_count": 100
+  },
+  {
+      "product_id": 4,
+      "product_title": "Samsung Galaxy Watch5 Pro",
+      "product_image": "https://i.ibb.co.com/k4KBr29/61-TPFvg-M7p-L-AC-SX300-SY300-QL70-FMwebp.webp",
+      "category": "Smartwatches",
+      "price": 499,
+      "description": "A durable and powerful smartwatch with advanced health tracking.",
+      "specification": [
+          "1.4-inch AMOLED display",
+          "BioActive sensor",
+          "GPS tracking",
+          "Up to 80-hour battery",
+          "Water-resistant"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "stock_count": 20
+  },
+  {
+      "product_id": 5,
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://i.ibb.co.com/CHh6xqX/71ulah9i-Iw-L-AC-SX679.jpg",
+      "category": "Smartwatches",
+      "price": 399,
+      "description": "The latest Apple Watch with health and fitness tracking capabilities.",
+      "specification": [
+          "Always-on Retina display",
+          "Blood Oxygen and ECG app",
+          "Crash detection",
+          "Up to 18-hour battery",
+          "Water-resistant"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "stock_count": 15
+  },
+  {
+      "product_id": 6,
+      "product_title": "Sony PlayStation 5",
+      "product_image": "https://i.ibb.co.com/26PqDjx/31k-TNmpm6v-L-SX300-SY300-QL70-FMwebp.webp",
+      "category": "Gaming Consoles",
+      "price": 499,
+      "description": "Next-generation gaming console with ultra-fast load times and stunning visuals.",
+      "specification": [
+          "8-core AMD Zen 2 CPU",
+          "825GB SSD",
+          "4K gaming support",
+          "DualSense controller",
+          "Ray tracing"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "stock_count": 10
+  },
+  {
+      "product_id": 7,
+      "product_title": "Xbox Series X",
+      "product_image": "https://i.ibb.co.com/MZb2FSC/311u08-BLJXL-SX300-SY300-QL70-FMwebp.webp",
+      "category": "Gaming Consoles",
+      "price": 499,
+      "description": "Microsoft's most powerful console with 4K gaming and 1TB storage.",
+      "specification": [
+          "8-core AMD Zen 2 CPU",
+          "1TB SSD",
+          "4K gaming support",
+          "HDR",
+          "Backward compatibility"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "stock_count": 12
+  },
+  {
+      "product_id": 8,
+      "product_title": "Logitech MX Master 3",
+      "product_image": "https://i.ibb.co.com/9NfHLqt/4127-72278.jpg",
+      "category": "Computer Accessories",
+      "price": 99,
+      "description": "Advanced wireless mouse with precision and customizable buttons.",
+      "specification": [
+          "4000 DPI sensor",
+          "USB-C rechargeable",
+          "Ergonomic design",
+          "7 customizable buttons",
+          "Compatible with Windows and macOS"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "stock_count": 40
+  },
+  {
+      "product_id": 9,
+      "product_title": "Razer BlackWidow V3",
+      "product_image": "https://i.ibb.co.com/rFyKxCv/blackwidow-v3-500x500-1.jpg",
+      "category": "Computer Accessories",
+      "price": 139,
+      "description": "A premium mechanical keyboard with customizable RGB lighting.",
+      "specification": [
+          "Green mechanical switches",
+          "RGB backlighting",
+          "Durable aluminum frame",
+          "N-key rollover",
+          "USB 2.0 passthrough"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "stock_count": 25
+  },
+  {
+      "product_id": 10,
+      "product_title": "HyperX Cloud II",
+      "product_image": "https://i.ibb.co.com/T0vt31S/71ybtvm-Lm-DL-AC-SX679.jpg",
+      "category": "Headphones",
+      "price": 149,
+      "description": "Wireless gaming headset with 7.1 surround sound and a detachable mic.",
+      "specification": [
+          "7.1 virtual surround sound",
+          "53mm drivers",
+          "30-hour battery life",
+          "Detachable noise-canceling mic",
+          "Memory foam ear cushions"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "stock_count": 35
+  },
+  {
+      "product_id": 11,
+      "product_title": "Dell XPS 13 Laptop",
+      "product_image": "https://i.ibb.co.com/Y2DXYBJ/XPS-13-9315-7034.jpg",
+      "category": "Laptops",
+      "price": 999,
+      "description": "High-performance laptop with a sleek design for multitasking.",
+      "specification": [
+          "13.4-inch InfinityEdge display",
+          "Intel Core i7 processor",
+          "16GB RAM, 512GB SSD",
+          "Fingerprint reader",
+          "Windows 11"
+      ],
+      "availability": false,
+      "rating": 4.8,
+      "stock_count": 0
+  },
+  {
+      "product_id": 12,
+      "product_title": "GoPro HERO11",
+      "product_image": "https://i.ibb.co.com/rtYWL9Z/Go-Pro-HERO11-a-2570.jpg",
+      "category": "Cameras",
+      "price": 399,
+      "description": "Waterproof action camera with 5.3K video recording capability.",
+      "specification": [
+          "5.3K video resolution",
+          "HyperSmooth 5.0",
+          "Waterproof up to 33ft",
+          "20MP photos",
+          "Voice control"
+      ],
+      "availability": false,
+      "rating": 4.7,
+      "stock_count": 0
+  }
+]
